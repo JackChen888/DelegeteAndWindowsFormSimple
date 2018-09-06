@@ -1,0 +1,10 @@
+D:\C#NEW\委托实现页面传值\委托实现页面传值\bin\Debug\委托实现页面传值.exe.config
+D:\C#NEW\委托实现页面传值\委托实现页面传值\bin\Debug\委托实现页面传值.exe
+D:\C#NEW\委托实现页面传值\委托实现页面传值\bin\Debug\委托实现页面传值.pdb
+D:\C#NEW\委托实现页面传值\委托实现页面传值\obj\Debug\委托实现页面传值.csprojResolveAssemblyReference.cache
+D:\C#NEW\委托实现页面传值\委托实现页面传值\obj\Debug\委托实现页面传值.Form1.resources
+D:\C#NEW\委托实现页面传值\委托实现页面传值\obj\Debug\委托实现页面传值.FormOther.resources
+D:\C#NEW\委托实现页面传值\委托实现页面传值\obj\Debug\委托实现页面传值.Properties.Resources.resources
+D:\C#NEW\委托实现页面传值\委托实现页面传值\obj\Debug\委托实现页面传值.csproj.GenerateResource.Cache
+D:\C#NEW\委托实现页面传值\委托实现页面传值\obj\Debug\委托实现页面传值.exe
+D:\C#NEW\委托实现页面传值\委托实现页面传值\obj\Debug\委托实现页面传值.pdb

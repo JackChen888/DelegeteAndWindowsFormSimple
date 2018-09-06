@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegeteApp1", "委托实现页面传值\DelegeteApp1.csproj", "{1A540BEE-FF9B-4056-80FF-5F21DDFC795F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegeteApp2", "DelegeteApp2\DelegeteApp2.csproj", "{015459DA-579F-4930-8F13-EBFCDC275BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A540BEE-FF9B-4056-80FF-5F21DDFC795F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A540BEE-FF9B-4056-80FF-5F21DDFC795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A540BEE-FF9B-4056-80FF-5F21DDFC795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A540BEE-FF9B-4056-80FF-5F21DDFC795F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015459DA-579F-4930-8F13-EBFCDC275BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015459DA-579F-4930-8F13-EBFCDC275BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015459DA-579F-4930-8F13-EBFCDC275BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015459DA-579F-4930-8F13-EBFCDC275BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
